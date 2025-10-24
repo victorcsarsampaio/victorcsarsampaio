@@ -1,7 +1,7 @@
 Olá 👋, meu nome é Victor! Sou apaixonado por resolver problemas e, para mim, a tecnologia é a chave para desvendar soluções inovadoras. Sou formado em Sistemas de Informação pela Estácio e adoro aprender e aplicar novas tecnologias para causar um impacto significativo.
 
 ## Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
 
 <!--
 **victorcsarsampaio/victorcsarsampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
